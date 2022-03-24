@@ -1,5 +1,3 @@
-# personal-learning
-
 ## Project setup
 ```
 npm install
