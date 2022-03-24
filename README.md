@@ -7,7 +7,7 @@ in the command line. This will create all top level directories and files in you
 
 You can then remove the pregenerated src file and copy the one from this repo into it, or create your own src files as preferred.
 
-# Running the site
+## Running the site
 Use command
 ```
 npm run serve
