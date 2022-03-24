@@ -1,22 +1,15 @@
 ## Project setup
+All necessary files to run this project can be created by running
 ```
-npm install
+vue create <project name>
 ```
+in the command line. This will create all top level directories and files in your directory.
 
-### Compiles and hot-reloads for development
+You can then remove the pregenerated src file and copy the one from this repo into it, or create your own src files as preferred.
+
+# Running the site
+Use command
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+to start up the website on your local machine
