@@ -3,7 +3,6 @@ You will need to have Vue CLI installed to create the project. If you do not hav
 ```
 npm install -g @vue/cli
 ```
-
 All necessary files to run this project can be created by running:
 ```vue
 vue create <your-project-name>
